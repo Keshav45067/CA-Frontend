@@ -22,9 +22,7 @@ export default function PersonalDetails() {
               </div>
             </div>
   
-            {/* Form Fields */}
             <form className="grid grid-cols-1 md:grid-cols-2 gap-[20px] ">
-              {/* Left Column */}
               <input
                 type="text"
                 placeholder="Name*"
@@ -57,7 +55,6 @@ export default function PersonalDetails() {
               />
             </form>
   
-            {/* Buttons */}
             <div className="flex justify-center md:justify-end gap-4 mt-3 md:self-end ">
               <button
                 type="submit"

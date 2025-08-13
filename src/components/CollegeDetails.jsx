@@ -22,9 +22,7 @@ export default function CollegeDetails() {
               </div>
             </div>
   
-            {/* Form Fields */}
             <form className="flex flex-col gap-[20px] ">
-              {/* Left Column */}
               <div className="flex flex-col md:flex-row gap-[20px] ">
               <input
                 type="text"
@@ -56,7 +54,6 @@ export default function CollegeDetails() {
               </div>
             </form>
   
-            {/* Buttons */}
             <div className="flex justify-center md:justify-end gap-4 mt-3 md:self-end ">
               <button
                 type="submit"

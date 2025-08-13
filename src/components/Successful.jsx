@@ -3,7 +3,6 @@ export default function Successful({heading, text, button, url}){
         <div className='flex flex-col justify-center items-center'>
         <h1 className="text-[20px] md:text-[28px] font-bold text-[#A671DF] ">{heading}</h1>
         
-        {/* Description */}
         <p className="text-gray-300 mb-4 text-[12px] md:text-[16px] text-center w-2/3">
          {text}
         </p>

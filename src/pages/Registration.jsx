@@ -44,8 +44,8 @@ export default function Registration() {
           <div className="w-3/4 gap-5 flex flex-col h-fit">
             {/* <PersonalDetails/> */}
             {/* <CollegeDetails/> */}
-            {/* <OTP/> */}
-            <Successful heading={"Email Verified Successfully!"} text={"Voila! You have successfully verified your account."} button={"Continue Registration"}/>
+            <OTP/>
+            {/* <Successful heading={"Email Verified Successfully!"} text={"Voila! You have successfully verified your account."} button={"Continue Registration"}/> */}
           </div>
         </div>
       </div>
