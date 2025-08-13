@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'romance';
+  src: url('/src/assets/Fonts/Romance.otf') format('opentype');
+  font-weight: 400; /* or the weight your font supports */
+  font-style: normal;
+  font-display: swap;
+}
+
